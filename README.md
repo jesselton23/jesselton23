@@ -6,28 +6,28 @@ Union Leader | Data-driven Advocacy | System Builder
 ## 🧠 About Me
 Programmer Analyst working at the intersection of data, systems, and advocacy.
 
-**My work connects:**
+## My work connects:
 - Technology (SQL, Banner, APEX)
 - Union leadership and communication
 - Activism and real-world impact
 
-**💻 Technology**
+##💻 Technology
 - SQL queries and PL/SQL logic
 - Oracle Database
 - Data Pipelines/reporting
 - Power Apps
 - Deque Systems
 
-**✊Union Work **
+##✊Union Work
 - Member engagement tracking
 - Contract/policy analysis
 - Communication systems
 
-**📢 Activism / Project**
+## 📢 Activism / Project
 - Organizing Information
 - Member engagement tracking system
 - Email -> task -> reporting workflow
-- Modernized and migrated local chapter website
+- Modernized and migrated the local chapter website
 
 ## 🚀 Projects
 - 📊 Call Detail Reporting (SQL + aggregation logic)
