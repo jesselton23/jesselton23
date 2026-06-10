@@ -1,29 +1,29 @@
 # Hi, I'm Jessie 👋
 
-Programmer Analyst | Oracle | SQL | Banner | Data Systems
+Programmer Analyst | Oracle | SQL | Banner | Data Systems | 
 Union Leader | Data-driven Advocacy | System Builder
 
 ## 🧠 About Me
-I build data-driven systems that improve how organizations understand and act on information.
+Programmer Analyst working at the intersection of data, systems, and advocacy.
 
-My work connects:
+**My work connects:**
 - Technology (SQL, Banner, APEX)
 - Union leadership and communication
 - Activism and real-world impact
 
-💻 Technology
+**💻 Technology**
 - SQL queries and PL/SQL logic
 - Oracle Database
 - Data Pipelines/reporting
 - Power Apps
-- Title II - Disability
+- Deque Systems
 
-✊Union Work
+**✊Union Work **
 - Member engagement tracking
 - Contract/policy analysis
 - Communication systems
 
-📢 Activism / Project
+**📢 Activism / Project**
 - Organizing Information
 - Member engagement tracking system
 - Email -> task -> reporting workflow
@@ -38,7 +38,7 @@ My work connects:
 - SQL / PL-SQL
 - Oracle APEX
 - Data analysis
-- Process automation  
+- Process automation
 
 ## 📫 Contact
 - Work Email: jessie.simpauco@oneonta.edu
